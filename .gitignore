@@ -1,2 +1,5 @@
 .venv/*
 .idea/*
+*.pem
+mysql-connector-j-9.3.0/
+.DS_Store
